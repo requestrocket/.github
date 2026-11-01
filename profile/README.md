@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://requestrocket.com">
+    <img src="assets/header.svg" width="100%" alt="RequestRocket. Runtime access control for AI agents and APIs. Connect. Control. Govern. Observe." />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://requestrocket.com">Website</a>
   &nbsp;·&nbsp;
   <a href="https://docs.requestrocket.com">Docs</a>
